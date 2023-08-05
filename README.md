@@ -58,7 +58,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 Happy coding!
 
-[![Follow Me on GitHub](https://img.shields.io/github/followers/yourgithubusername?label=Follow%20Me&style=social)](https://github.com/SyabAhmad)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterusername?style=social)](https://twitter.com/SyabSays)
+[![Follow Me on GitHub](https://img.shields.io/github/followers/SyabAhmad?label=Follow%20Me&style=social)](https://github.com/SyabAhmad)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/SyabSays?style=social)](https://twitter.com/SyabSays)
 
 LinkedIn
